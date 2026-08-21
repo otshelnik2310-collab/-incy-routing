@@ -28,13 +28,15 @@
   ],
 
   "ProxySites": [
-  "geosite:ru-blocked",
-  "geosite:telegram",
-  "domain:openai.com",
-  "domain:chatgpt.com",
-  "domain:oaistatic.com",
-  "domain:oaiusercontent.com"],
-"ProxyIp": [],
+    "geosite:ru-blocked",
+    "geosite:telegram",
+    "domain:openai.com",
+    "domain:chatgpt.com",
+    "domain:oaistatic.com",
+    "domain:oaiusercontent.com"
+  ],
+
+  "ProxyIp": [],
 
   "BlockSites": [],
   "BlockIp": [],
